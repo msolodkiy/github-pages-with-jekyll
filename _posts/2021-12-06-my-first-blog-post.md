@@ -1,3 +1,7 @@
+---
+title: "Welcome to my Agile blog"
+date: 2021-12-06
+---
 ## Agile Product Management
 # Product teams use minimum viable products and rapid experimentation to test hypotheses and validate ideas. n Frequent releases help fuel a continuous feedback cycle between customer and product. n Shipped and done are not the same thing. Instead of releasing a “finished” product, iterations continue to make incremental improvements to it based on customer and market feedback.
 # Product teams are guided by high-level strategic goals and perhaps even themes below those goals. The product department’s success is measured against progress toward those strategic goals rather than by delivery of a predefined featureset
